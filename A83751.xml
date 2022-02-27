@@ -1,0 +1,265 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Eighteen new court-quæries humbly offered to the serious consideration, and mature deliberation of all the good honest hearted people of the three nations: of great concernment towards the stopping our breaches, and the making up of the divisions amongst us. By several well-wishers to our settlement.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83751</idno>
+            <idno type="STC">Wing E263</idno>
+            <idno type="STC">Thomason E984_1</idno>
+            <idno type="STC">ESTC R207795</idno>
+            <idno type="EEBO-CITATION">99866824</idno>
+            <idno type="PROQUEST">99866824</idno>
+            <idno type="VID">168588</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83751)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168588)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 146:E984[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Eighteen new court-quæries humbly offered to the serious consideration, and mature deliberation of all the good honest hearted people of the three nations: of great concernment towards the stopping our breaches, and the making up of the divisions amongst us. By several well-wishers to our settlement.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the year MDCLIX. [1659]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "May. 26.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168588:1" rendition="simple:additions"/>
+            <p>EIGHTEEN NEW COURT-QUAERIES HUMBLY OFFERED To the ſerious conſideration, and mature de<g ref="char:EOLhyphen"/>liberation of all the good honeſt hearted people of the Three Nations: of great concernment towards the ſtopping our Breaches, and the making up of the Divi<g ref="char:EOLhyphen"/>ſions amongſt us.</p>
+            <p>
+               <hi>By ſeveral well-wiſhers to our Settlement.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed in the year MDCLIX.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:168588:2"/>
+            <pb n="1" facs="tcp:168588:2"/>
+            <head>EIGHTEEN COURT-QUERIES, &amp;c.</head>
+            <div n="1" type="query">
+               <head>I.</head>
+               <p>WHether this <hi>Lord Protectors Patience</hi> in letting go his <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>old ſo calmly, and tamely, were in <hi>him a Vertue,</hi> or not? and if it were a <hi>Vertue,</hi> whether <hi>Neceſſity</hi> did not make it ſo?</p>
+            </div>
+            <div n="2" type="query">
+               <head>II.</head>
+               <p>Whether eight thouſand pounds <hi>per annum,</hi> and withall free liberty to take the Country Air, be not very ſufficient an reaſonable conſiderations, and ſtipend, for the old <hi>Pro<g ref="char:EOLhyphen"/>tectreſs;</hi> as a very gratefull acknowledgment from our <hi>Free-State,</hi> of the good ſervice which her husband in his life time did for this Commonwealth? and whether or no ſhe ought in conſcience to flight and undervalue this ample teſtimony of the Officers good af<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ection, and charity to her?</p>
+            </div>
+            <div n="3" type="query">
+               <head>III.</head>
+               <p>Whether if the <hi>Sky</hi> ſhould <hi>f<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ll</hi> there world be any work for a <hi>Lark-catcher</hi> at <hi>Whitehall?</hi>
+               </p>
+            </div>
+            <div n="4" type="query">
+               <pb n="2" facs="tcp:168588:3"/>
+               <head>IV.</head>
+               <p>Whether the Army ought not to have given to them, new Red Coats, and black buttons now, to mourn for the <hi>De<g ref="char:EOLhyphen"/>par ure</hi> of this <hi>Protector,</hi> as well as they had for the <hi>Deceaſe</hi> of <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Old one?</p>
+            </div>
+            <div n="5" type="query">
+               <head>V.</head>
+               <p>That ſeeing ſo it is, and muſt, and ſhall be, that the Cour<g ref="char:EOLhyphen"/>tiers muſt of neceſſity repair all of them to their reſpective dwelling, and habitations, <hi>bag</hi> and <hi>baggage;</hi> whether it would not be a greater expence and burthen to the <hi>States</hi> (upon whoſe hands they yet lye) to ſend for Mules out of <hi>Egypt</hi> for their <hi>Convoy;</hi> than <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> them their next neigh<g ref="char:EOLhyphen"/>bours in <hi>James</hi> his Park (the Aſſes) to perform that piece of drudgery?</p>
+            </div>
+            <div n="6" type="query">
+               <head>VI.</head>
+               <p>VVhether or no <hi>Peter Sterry,</hi> the Court <hi>Confeſſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ur,</hi> when he preach'd in the Chapell the very next <hi>Lords day</hi> after his <hi>H<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ghueſſe</hi> cied, and uttered in <hi>that</hi> his <hi>Sermo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> there, words, either <hi>theſe,</hi> or to this effect, (viz.) [<hi>As certainly as I hold the word of God in my left hand, ſo certainly is his late Highneſſe now at the right hand of God, interceding for the iniquities of this ſinfull Nation:</hi>] did not commit an high, and moſt horrid piece of <hi>blaſphemy?</hi> And then, whether He does not therefore very well deſerve to be a fellow-ſeeler o<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>James Naylour's</hi> Sentence, and to be as coarſly uſed as He, who yet continues at his expiatory task of pounding hemp in the <hi>Houſe</hi> of <hi>Correction?</hi>
+               </p>
+            </div>
+            <div n="7" type="query">
+               <head>VII.</head>
+               <p>VVhether or not, Dr. <hi>John Owen,</hi> and Dr. <hi>Thomas Good<g ref="char:EOLhyphen"/>win,</hi> would make it any <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of matter of Conſcience to
+<pb n="3" facs="tcp:168588:3"/> accept of the two Archbiſhopricks of <hi>York</hi> and <hi>Canterbury</hi> if the State could think fit to reward their endeavours with ſo rich a profer?</p>
+            </div>
+            <div n="8" type="query">
+               <head>VIII.</head>
+               <p>VVhether it be not very fitting, and neceſſary, and much tending to the gladding of the Hearts of many men, that the <hi>Banquetting houſe</hi> at <hi>Whitehall</hi> be ſpee<g ref="char:EOLhyphen"/>dily remoov'd from thence, and carried croſſe the way to <hi>Wallingford-houſe,</hi> for the noble <hi>Officers</hi> of our invin<g ref="char:EOLhyphen"/>cible, and ſucceſſefull Armies, to triumph in, after all their encounters, and valiant atchievements? And whether the <hi>State</hi> would not do well as to that end and pur<g ref="char:EOLhyphen"/>poſe, with all expedition poſſible, to make all the Ci<g ref="char:EOLhyphen"/>tizens <hi>Pioneers</hi> for the <hi>carrying on of that Great Work.</hi>
+               </p>
+            </div>
+            <div n="9" type="query">
+               <head>IX.</head>
+               <p>VVhether theſe Proverbs following 1. That <hi>ſome man man may better ſteal a Gooſe, than another pluck a feather?</hi> 2. That <hi>bought wit is best?</hi> 3. That <hi>Occaſion makes the thief?</hi> be all moſt true and authentick, and confirm'd by modern ex<g ref="char:EOLhyphen"/>perience, yea, or no?</p>
+            </div>
+            <div n="10" type="query">
+               <head>X.</head>
+               <p>VVhether it may conſiſt with the tender, and de<g ref="char:EOLhyphen"/>licate education of our new <hi>Ladies</hi> of <hi>Honour,</hi> to dab<g ref="char:EOLhyphen"/>ble through the Country dew theſe Summer mor<g ref="char:EOLhyphen"/>nings with a milking pail on their heads? and con<g ref="char:EOLhyphen"/>ſequently, whether it is not likely to be very much prejudicial to their beauties, to go (after this <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tate) <hi>out of God's bleſſing, into the Warm Sun?</hi>
+               </p>
+            </div>
+            <div n="11" type="query">
+               <pb n="4" facs="tcp:168588:4"/>
+               <head>XI.</head>
+               <p>VVhether illiterate men, partial, covetous, worldly min<g ref="char:EOLhyphen"/>ded, ſelf-ended greedy of gain, having mens perſons in ad<g ref="char:EOLhyphen"/>miration, naughty, an hypocritical, be competent judges (according to the Cano<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of the <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oly VVrit) of Students in both Univerſities of our Land, for the diſcharge of the moſt ſacred <hi>Miniſterial Function?</hi>
+               </p>
+            </div>
+            <div n="12" type="query">
+               <head>XII.</head>
+               <p>VVhether Mr. <hi>Hugh Peters,</hi> when he kept daily and <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ightly correſpondence with the Gentleman's wife in the <hi>Low-Countries,</hi> during the abſence of her husband, upon ſervice in the worres, did punctual y perform that <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>read<g ref="char:EOLhyphen"/>full <hi>threatning</hi> of his, in the hear of his Zeal againſt Po<g ref="char:EOLhyphen"/>pery, <hi>That He would lay the whore of Babylon upon h<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r back?</hi> And whether that mad <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Spirit</hi> wherewith he ſeems alwayes <hi>poſſeſs'd,</hi> becomes <hi>a man of peace,</hi> or ſuits with the meekneſſe, and humility of the glorious <hi>Goſpell?</hi>
+               </p>
+            </div>
+            <div n="13" type="query">
+               <head>XIII.</head>
+               <p>VVhether Mr. <hi>Needham</hi> the <hi>Curranto-maker,</hi> the Court Pamphleteer, being an impudent fellow, a lye<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, and forger of forein le<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ters; a mercenary in<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ormer, an abuſer, and baſe vilifier of worthy and eminent perſons; an inſulter over gal<g ref="char:EOLhyphen"/>lant mens afflictions, and miſeries; A murtherer of mens <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ame, credit &amp; reputation, to their utter and moſt inevitable ruine and deſtruction; does not very well deſerve to forfeit his Eares to the Pillory?</p>
+            </div>
+            <div n="14" type="query">
+               <head>XIV.</head>
+               <p>VVhether all the men of the three Nations that lately made <hi>
+                     <gap reason="illegible" resp="#APEX" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi> to his <hi>Highneſſe;</hi> are dead or alive?</p>
+            </div>
+            <div n="15" type="query">
+               <pb n="5" facs="tcp:168588:4"/>
+               <head>XV.</head>
+               <p>VVhether now, <hi>Whitehall</hi> be not a place commodious to make a <hi>Play-houſe</hi> of, having been accuſtomed for theſe many yeares to ſuch alteration of <hi>Scaenes?</hi> and the penſio<g ref="char:EOLhyphen"/>ners, &amp;c. well accompliſht to turn <hi>Stage-Players?</hi> Firſt, be<g ref="char:EOLhyphen"/>cauſe it is conceiv'd <hi>they</hi> have now little elſe to do. Second<g ref="char:EOLhyphen"/>ly, becauſe <hi>they</hi> have been bred up upon that <hi>Stage,</hi> and can <hi>act</hi> any <hi>part;</hi> and Thirdly, becauſe they never wear good cloaths longer than the <hi>Play continues.</hi>
+               </p>
+            </div>
+            <div n="16" type="query">
+               <head>XVI.</head>
+               <p>VVhether the old <hi>Protector's Cradles</hi> ſtanding in <hi>Weſtmin<g ref="char:EOLhyphen"/>ſter Abby</hi> in the ſame place where the <hi>High Altar,</hi> or <hi>Com<g ref="char:EOLhyphen"/>munion Table</hi> formerly ſtood, is not the ſetting up of one <hi>Su<g ref="char:EOLhyphen"/>perſt<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tion</hi> where another <hi>Superstition</hi> (as 'twas termed) was pull'd down? and whether the <hi>Eſſigies,</hi> when it was <hi>there,</hi> might not be call'd, without any abuſe of Scripture, <hi>the abho<g ref="char:EOLhyphen"/>mination of deſolation in the holy place?</hi>
+               </p>
+            </div>
+            <div n="17" type="query">
+               <head>XVII.</head>
+               <p>VVhether the wainſcot <hi>Preſſe</hi> that is made in <hi>Henry</hi> the ſe<g ref="char:EOLhyphen"/>venth his Chapell, for reception of the aforementioned <hi>Idoll,</hi> being as yet empty, and thought unfitting for <hi>that</hi> Employ<g ref="char:EOLhyphen"/>ment, would not ſerve a great deal better to keep in it the ſa<g ref="char:EOLhyphen"/>cred <hi>Reliques</hi> of VVell-affected Perſons in the Common<g ref="char:EOLhyphen"/>wealth? as for example, The Lord <hi>Brooks's Eye;</hi> The <hi>flappets</hi> of Mr. <hi>William Prynn's Eares;</hi> My Lord of <hi>Eſſex's Prolifick Inſtrument;</hi> Sir <hi>John Hotham's Head; Lundsford's teeth; Mildmaye's Jewels;</hi> Dr. <hi>Doriſlaus's four quarters;</hi> Alderman <hi>Hoyle's Rope;</hi> the <hi>dagger</hi> that kill'd <hi>Watt Tyler;</hi> The Lord <hi>Pride's ſlings</hi> and <hi>tallies;</hi> the Lord <hi>Hewſon's ſhooing-horn;</hi> the Lord <hi>Barkſtead's thimbles and bodkins;</hi> with many other remarkable things of this nature, which it may be elſe may happen to be loſt or forgotten?</p>
+            </div>
+            <div n="18" type="query">
+               <pb n="6" facs="tcp:168588:5"/>
+               <head>XVIII.</head>
+               <p>VVhether all theſe eighteen <hi>Queries,</hi> are not worthy the peruſal of every ſober, melancholy man? and very main<g ref="char:EOLhyphen"/>ly effectnal (if they may but be anſwered according to the earneſt longings, gapings, and expectations of the honeſt peo<g ref="char:EOLhyphen"/>ple of this Commonwealth) to remove a great many ſcurvy, baſe incommodities, dammages, and inconveniences, which otherwiſe may chance to fall upon us?</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
